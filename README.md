@@ -20,3 +20,4 @@ This is my Top Ten list of useful tools and platforms for MSR.
 11. GitLab
 12. PostgreSQL
 13. Claude Code
+14. GitHub CLI - indispensable for automating repo mining straight from your shell !
